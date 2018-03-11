@@ -1,0 +1,6 @@
+<mat-card *ngFor ="let favorite of favorites;">
+  <mat-card-title>{{favorite.name}}</mat-card-title>
+  <mat-card-subtitle>{{favorite.type}}</mat-card-subtitle>
+  <i class="material-icons">{{favorite.type === 'file'? 'description':'folder'}} </i>
+</mat-card>
+

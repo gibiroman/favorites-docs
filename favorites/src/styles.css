@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@media (min-width:1281px) {
+  body {
+    padding: 50px 100px;
+  }
+}

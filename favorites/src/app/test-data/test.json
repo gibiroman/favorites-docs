@@ -1,0 +1,24 @@
+{
+  "list": {
+    "entries": [
+      {
+        "entry": {
+          "target": {
+            "file": {
+              "name": "text.file"
+            }
+          }
+        }
+      },
+      {
+        "entry": {
+          "target": {
+            "folder": {
+              "name": "text.folder"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

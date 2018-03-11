@@ -1,0 +1,16 @@
+mat-card {
+  margin-bottom: 20px;
+}
+
+mat-card-title {
+  font-size: 28px;
+}
+
+mat-card-subtitle {
+  font-size: 18px;
+}
+
+i {
+  font-size: 45px;
+  color:rgb(117, 117, 117);
+}
